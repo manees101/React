@@ -15,8 +15,8 @@ const App02=()=>{
    }
 
    return(
-    <UserProvider value={{setUser,getUser}}>
-     <Login></Login>
+    <UserProvider value={{setUser,getUser}} >
+     <Login ></Login>
       <Profile></Profile>
     </UserProvider>
    )
