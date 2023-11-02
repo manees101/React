@@ -1,4 +1,4 @@
-import { useUserContext } from "../context/UserContext02";
+import  useUserContext from "../context/UserContext02";
 
 
 const Profile=()=>{
